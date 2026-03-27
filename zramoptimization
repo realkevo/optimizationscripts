@@ -4,7 +4,7 @@
 # Parrot OS / Debian-based systems
 # MAXED-OUT ZRAM + RAM PERFORMANCE SCRIPT
 # Self-installing, auto-starting, retains feedback
-# =====================================================
+# ====================================================
 
 set -e
 
